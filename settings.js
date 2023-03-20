@@ -4,7 +4,7 @@
 //pls give credit
 //no credit? i will take action immediately
 //© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//Thank you to 🅟︎🅞︎🅛︎🅐︎🅡︎,  and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -53,16 +53,16 @@ global.doc4 = 'application/zip'
 global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
-//owmner v card
-global.vcardowner = ['254758072406'] //ur owner number
+//owner v card
+global.vcardowner = ['254112976931'] //ur owner number
 global.ownername = "🅟︎🅞︎🅛︎🅐︎🅡︎" //ur owner name
 global.ytname = "YT: Sa-vage" //ur yt chanel name
 global.socialm = "GitHub: Sa-vage" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['254758072406']
-global.ownertag = '254758072406' //ur tag number
+global.owner = ['254112976931']
+global.ownertag = '254112976931' //ur tag number
 global.botname = '๖ۣۜMoͥϞsͣtͫēɽ' //ur bot name
 global.linkz = "https://github.com/Sa-vage/whatsbot" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Sa-vage/whatsbot" //ur website to be displayed
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['254112976931'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
