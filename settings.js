@@ -70,7 +70,7 @@ global.botscript = 'https://github.com/Sa-vage/whatsbot' //script link
 global.reactmoji = "👽" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "🤔weird👽 " //ur sticker watermark packname
-global.author = "✭𓅃ケビン𓀛" //ur sticker watermark author
+global.author = "🅟︎🅞︎🅛︎🅐︎🅡︎" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
